@@ -1,2 +1,2 @@
 # AppUpdateManager
-In-app update
+In-app update. Based on DownloadManager
