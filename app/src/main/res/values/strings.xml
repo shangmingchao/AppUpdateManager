@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppUpdateManager</string>
+    <string name="check_files_failed_tips">下载的文件可能已损坏，请重新下载</string>
+    <string name="download_manager_failed_tips">下载器已停止下载，请稍后重试</string>
+    <string name="new_version_ready">有新的版本</string>
+    <string name="download_app">下载应用</string>
+    <string name="update">更新</string>
+    <string name="cancel">取消</string>
+    <string name="retry">重试</string>
+    <string name="update_app_tips_desc">已准备好安装包，请点击安装并授予安装权限</string>
+    <string name="install">安装</string>
+    <string name="update_app_tips_title">安装最新版本%1$s</string>
+    <string name="prompt">提示</string>
+    <string name="download_manager_disable_tips">系统下载服务暂不可用，请开启下载服务后重试</string>
+    <string name="go_to_settings">去设置</string>
+    <string name="download_by_browser">用浏览器下载</string>
+    <string name="download_apk_failed_tips">下载失败，请到官网或应用商店下载最新版本</string>
+</resources>
